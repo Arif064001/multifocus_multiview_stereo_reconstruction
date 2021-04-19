@@ -65,4 +65,4 @@ run positions_blender_controlled_camera_pose_incomplete_sphere.py for reconstruc
 
 References:
 
-Li, Hengjia and Nguyen, Chuong, 2019. Perspective-consistent multifocus multiview 3D reconstruction of small objects. In 2019 Digital Image Computing: Techniques and ApplicatLi, Hengjia and Nguyen, Chuong, 2019. Perspective-consistent multifocus multiview 3D reconstruction of small objects. In 2019 Digital Image Computing: Techniques and Applications (DICTA), pages 1–8. IEEE.
+Li, Hengjia and Nguyen, Chuong, 2019. Perspective-consistent multifocus multiview 3D reconstruction of small objects. In 2019 Digital Image Computing: Techniques and Applications (DICTA), pages 1–8. IEEE.
